@@ -8,7 +8,6 @@ A brief description of what this project does and who it's for
 
 
 ## 🚀 About Me
-## About Me
 
 👋 Hello! I'm Ali Saeed, a passionate Data Engineer with a strong background in Data Science.
 
